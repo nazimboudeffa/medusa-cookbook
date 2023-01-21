@@ -23,6 +23,8 @@ This book has diffrent parts and chapters that you can follow but I recommand to
 * chapter 1
 * chapter 2
 * chapter 3
+* ...
+* references
 
 ### license & copyright
 
