@@ -2,11 +2,7 @@
 
 Your guide to a positive journey in e-commerce with MedusaJS
 
-WiP 
-
-[DRAFT](https://docs.google.com/document/d/1uPSHBadrBKatcycZrNLtVysF9zbSAE0F85ggS2uCU-8/edit?usp=sharing) 
-
-[Q&A](https://github.com/nazimboudeffa/medusa-qanda)
+WiP [DRAFT](https://docs.google.com/document/d/1uPSHBadrBKatcycZrNLtVysF9zbSAE0F85ggS2uCU-8/edit?usp=sharing) / [Q&A](https://github.com/nazimboudeffa/medusa-qanda)
 
 <img src="medusa-cookbook-cover-1800x2700.png" width="300">
 
