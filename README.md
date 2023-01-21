@@ -16,6 +16,12 @@ This book is divided into multiple parts
 * Code Snippets
 * How to Build Medusa from Scratch
 
+This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
+
+* chapter 1
+* chapter 2
+* chapter 3
+
 ### license & copyright
 
 The original **Medusa Cookbook** is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][license]. You are free:
