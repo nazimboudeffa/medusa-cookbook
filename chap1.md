@@ -22,7 +22,9 @@ If these commands return a version number, then Node.js and npm are installed an
 
 Once you have Node.js and npm installed, you can install MedusaJS server by running the following command:
 
-```npm install -g medusajs```
+```
+npm install -g medusajs
+```
 The -g flag tells npm to install MedusaJS globally on your machine, which means that you will be able to use the medusajs command from any directory.
 
 After the installation is complete, you can create a new MedusaJS project by running the following command:
