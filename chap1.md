@@ -52,7 +52,7 @@ Finally, you can also use medusajs generate command to generate a new resource, 
 
 In conclusion, installing MedusaJS server is a straightforward process that only requires Node.js and npm to be installed. With the help of MedusaJS command line tool, you can easily set up a new project and start building your web application.
 
-TODO
+TODO explain how to generate the SQLite db starter datas
 
 # Install Medusa Admin
 
