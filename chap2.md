@@ -29,3 +29,5 @@ You can use pgadmin to administrate your postgres database
 https://www.pgadmin.org/
 
 ## Administrate Redis
+
+https://redis.com/fr/redis-enterprise/redisinsight/
