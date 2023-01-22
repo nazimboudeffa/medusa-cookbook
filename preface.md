@@ -12,6 +12,14 @@ In summary, this book is aimed at web developers who wish to use MedusaJS to cre
 
 # History and My Journey
 
+The project started x years ago
+
+The project has been founded with preround in 2021
+
+The project has been founded with a first round in 2022
+
+Some attemps to develop medusa vuestorefront
+
 I have joined the Medusa community in october 2022 just after the hacktober fest, didn't have time to join before
 
 It's been amazing to see a young startup beeing funded with 8M$ in a first round
