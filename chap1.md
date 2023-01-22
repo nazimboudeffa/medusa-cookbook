@@ -28,15 +28,23 @@ The -g flag tells npm to install MedusaJS globally on your machine, which means 
 After the installation is complete, you can create a new MedusaJS project by running the following command:
 
 ```
-medusajs new my-project
+mkdir medusa
+cd medusa
+medusajs new my-medusa-store
 ```
-This will create a new directory called my-project with the basic structure of a MedusaJS project. You can then navigate to this directory and start the server by running the following command:
+This will create a new directory called my-medusa-store with the basic structure of a MedusaJS project. You can then navigate to this directory and start the server by running the following command:
 
 ```
-cd my-project
+cd my-medusa-store
+medusajs develop
+```
+This will start medusa server in developer mode
+
+```
+cd my-medusa-store
 medusajs start
 ```
-The server will start and you can access your new MedusaJS application by visiting http://localhost:3000 in your web browser.
+The server will start and you can access your new MedusaJS application by visiting http://localhost:9000 in your web browser.
 
 Finally, you can also use medusajs generate command to generate a new resource, medusajs build command to build your production code, medusajs test command to test your code, and many more.
 
