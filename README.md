@@ -16,8 +16,8 @@ This book has diffrent parts and chapters that you can follow but I recommand to
 
 * forewords
 * [preface](preface.md)
-* [chapter 1](chap1.md)
-* [chapter 2](chap2.md)
+* [chapter 1 : How to install Medusa](chap1.md)
+* [chapter 2 : Administrate your installation](chap2.md)
 * chapter 3
 * ...
 * references
