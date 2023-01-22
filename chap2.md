@@ -2,9 +2,25 @@
 
 In this chapter we are going to see how to administrate your freshly installed Medusa store
 
-## Add payment
+## Add payments
+
+TODO
+
+## Add shiping
+
+TODO
+
+## Add regions
+
+TODO
 
 ## Add products
+
+TODO
+
+## Add images
+
+TODO
 
 ## Administrate your PG DB
 
