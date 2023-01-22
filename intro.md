@@ -1,3 +1,7 @@
+# Introduction
+
+TODO
+
 # What you're going to learn with this book
 
 In this CookBook we are mainly going to install Medusa Server in Ubuntu VM from VirtualBox for developement and then we're going to use Ubuntu server in a VPS for production 
