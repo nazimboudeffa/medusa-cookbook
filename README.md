@@ -15,9 +15,9 @@ This book is divided into multiple parts
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 
 * forewords
-* preface
-* chapter 1
-* chapter 2
+* [preface](preface.md)
+* [chapter 1](chap1.md)
+* [chapter 2](chap2.md)
 * chapter 3
 * ...
 * references
