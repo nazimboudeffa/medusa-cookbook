@@ -4,7 +4,7 @@ I have joined the Medusa community in october 2022 just after the hacktober fest
 
 It's been amazing to see a young startup beeing funded with 8M$ in a first round
 
-I've started to answer questions like I have done in the Phaser community 
+I've started to answer questions like I have done in the Phaser community, see [my Phaser v2 CookBook](https://github.com/nazimboudeffa/phaser2-cookbook)
 
 Some times after I have been contacted by the team in dm to be rewarded with [some swags](https://www.instagram.com/p/CneZYzFM3BD/)
 
