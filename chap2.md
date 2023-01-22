@@ -2,11 +2,11 @@
 
 In this chapter we are going to see how to administrate your freshly installed Medusa store
 
-## Add payments
+## Add products
 
 TODO
 
-## Add shiping
+## Add images
 
 TODO
 
@@ -14,11 +14,11 @@ TODO
 
 TODO
 
-## Add products
+## Add payments
 
 TODO
 
-## Add images
+## Add shiping
 
 TODO
 
