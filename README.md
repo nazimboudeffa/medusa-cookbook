@@ -15,14 +15,18 @@ This book is divided into multiple parts
 
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 
-* forewords : Important people talking about this book, maybe you ?
-* [preface : History and my journey](preface.md)
-* [intro : Introduction](intro.md)
-* [chapter 1 : How to install Medusa](chap1.md)
-* [chapter 2 : Administrate your installation](chap2.md)
-* chapter 3
-* ...
-* [references](refs.md)
+* MEDUSA GUIDE
+  * forewords : Important people talking about this book, maybe you ?
+  * [preface : History and my journey](preface.md)
+  * [intro : Introduction](intro.md)
+  * [chapter 1 : How to install Medusa](chap1.md)
+  * [chapter 2 : Administrate your installation](chap2.md)
+  * chapter 3
+  * ...
+  * [references](refs.md)
+* CODE SNIPPETS
+* MEDUSA MARKETPLACE
+* MEDUSA FROM SCRATCH
 
 ### license & copyright
 
