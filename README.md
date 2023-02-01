@@ -10,6 +10,7 @@ This book is divided into multiple parts
 
 * A Guide on Medusa
 * Code Snippets
+* Medusa Marketplace https://github.com/nazimboudeffa/nextjs-marketplace-medusa
 * How to Build Medusa from Scratch
 
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
