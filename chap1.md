@@ -10,7 +10,7 @@ Let's start by installing the server
 
 On the VM
 
-MedusaJS is a powerful JavaScript framework for building web applications, and getting started with it is relatively easy. In this article, we will go over the steps to install MedusaJS server and set up a new project.
+MedusaJS is a powerful JavaScript framework for building web applications, and getting started with it is relatively easy. In this chapter, we will go over the steps to install MedusaJS server and set up a new project.
 
 Before we begin, please make sure that you have Node.js and npm (Node Package Manager) installed on your machine. You can check this by running the following commands in your terminal:
 
