@@ -24,7 +24,8 @@ This book has diffrent parts and chapters that you can follow but I recommand to
   * [references](refs.md)
 * CODE SNIPPETS
 * MEDUSA MARKETPLACE
-* MEDUSA FROM SCRATCH
+* MEDUSA FROM SCRATCH, actually on [Notion](https://www.notion.so/codewithadude/How-to-Build-Your-Medusa-Store-05bb0b5b508f4c95ac9a1cf78bdf2baf)
+* BECOME A CONTRIBUTOR, also in project on Notion
 
 ### license & copyright
 
